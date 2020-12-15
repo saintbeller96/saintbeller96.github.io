@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               공부하고자 하는 블로그
+title:               JsKim
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,16 +13,15 @@ url:                 https://saintbeller96.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline:             "공부하자"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
-  Data science enthusiast and addict :)
-
+description:         >  
+        웹과 데이터 엔지니어링에 관심있는 개발자 지망생
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              jskim
+  name:              saintbeller96
   email:             rlawhdtjd9@naver.com
 
 # Fallback image and color
@@ -44,14 +43,14 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    UA-137374202-1
+google_analytics:    G-ZD4RJMBGH3
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    jskim
+disqus_shortname:    saintbeller96
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019.04. by theorydb'
+copyright:           '&copy; 2020.12. by saintbeller96'
 
 # Format of the permalinks
 permalink:           pretty

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: DL
-slug: dl
-category: dev
+title: Vue.js
+slug: vue.js
+category: web
 menu: false
 order: 2
 ---
