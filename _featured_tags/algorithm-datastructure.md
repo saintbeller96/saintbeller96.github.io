@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Data Structure
-slug: data structure
+slug: ds
 category: algorithm
 menu: false
 order: 3

@@ -3,7 +3,7 @@ layout: post
 title:  "[BOJ]2208 보석 줍기"
 subtitle:   "보석 줍기 문제 해결"
 categories: algorithm
-tags: ps
+tags: ps boj
 comments: true
 ---
 

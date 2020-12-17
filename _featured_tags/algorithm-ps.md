@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Problem Solving
-slug: problem solving
+slug: ps
 category: algorithm
 menu: false
 order: 1
